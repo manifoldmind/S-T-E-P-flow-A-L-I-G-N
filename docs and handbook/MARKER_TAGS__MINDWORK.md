@@ -4,7 +4,7 @@
 Подразумевают развёрнутое описание идей, решений, контекста.  
 Полный сводный справочник и теги для кода см. в [MARKER_TAGS__SIGNATURES.md](https://github.com/manifoldmind/S-T-E-P-flow-A-L-I-G-N/blob/main/docs%20and%20handbook/MARKER_TAGS__ALL_SIGNATURES.md).
 
-Формат: `# TAG: описание` в начале строки.
+Формат: `#TAG: описание` в начале строки.
 
 ---
 
