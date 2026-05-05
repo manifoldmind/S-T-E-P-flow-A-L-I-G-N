@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key insights from hands-on experience/Git & Github.md",
+                "file": "Key insights from hands-on experience/VARSOLVE — Разбиение Git-веток на черновики-выполнение-продакшн.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git & Github"
+              "title": "VARSOLVE — Разбиение Git-веток на черновики-выполнение-продакшн"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key insights from hands-on experience/Git & Github.md",
+                "file": "Key insights from hands-on experience/VARSOLVE — Разбиение Git-веток на черновики-выполнение-продакшн.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Git & Github"
+              "title": "Обратные ссылки для VARSOLVE — Разбиение Git-веток на черновики-выполнение-продакшн"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key insights from hands-on experience/Git & Github.md",
+                "file": "Key insights from hands-on experience/VARSOLVE — Разбиение Git-веток на черновики-выполнение-продакшн.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Git & Github"
+              "title": "Исходящие ссылки из VARSOLVE — Разбиение Git-веток на черновики-выполнение-продакшн"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key insights from hands-on experience/Git & Github.md",
+                "file": "Key insights from hands-on experience/VARSOLVE — Разбиение Git-веток на черновики-выполнение-продакшн.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Git & Github"
+              "title": "Структура VARSOLVE — Разбиение Git-веток на черновики-выполнение-продакшн"
             }
           }
         ]
@@ -186,6 +186,7 @@
   "active": "50ed469e29a07649",
   "lastOpenFiles": [
     "Key insights from hands-on experience/Git & Github.md",
+    "Key insights from hands-on experience/VARSOLVE — Разбиение Git-веток на черновики-выполнение-продакшн.md",
     "Key insights from hands-on experience",
     "docs and handbook/MARKER TAGS"
   ]
